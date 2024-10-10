@@ -12,8 +12,6 @@ header:
       slug: /
     - name: 研究
       slug: /work
-    - name: 其他
-      slug: /blog
 
 footer:
   contact:
