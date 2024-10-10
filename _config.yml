@@ -4,7 +4,7 @@
 title: 周博的个人主页
 baseurl: "" # the subpath of the site
 url: "https://sczhoubo.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profile-pic.jpg
+og_image: 
 google_analytics: "UA-121636368-3"
 
 header:
