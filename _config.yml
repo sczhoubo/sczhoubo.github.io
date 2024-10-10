@@ -17,7 +17,6 @@ header:
       slug: /blog
 
 footer:
-  show_powered_by: true
   contact:
     - type: email
       name: 电子邮箱
