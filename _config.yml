@@ -9,7 +9,7 @@ google_analytics: "UA-121636368-3"
 
 header:
   pages:
-    - name: Home
+    - name: 主页
       slug: /
     - name: 研究
       slug: /work
