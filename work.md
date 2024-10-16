@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5d5153d1-f6f2-4796-a3d4-829584e5d550)---
+---
 layout: work
 title: 研究
 slug: /work
