@@ -1,6 +1,6 @@
 ---
 layout: work
-title: 研究
+title: 研究论文
 slug: /work
 items:
   - title: <a href="/assets/融资平台债务扩张对中小企业信贷融资与资源配置的影响.pdf">融资平台债务扩张对中小企业信贷融资与资源配置的影响</a>，2024《财贸经济》
