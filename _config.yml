@@ -17,12 +17,12 @@ footer:
   contact:
     - type: email
       name: 电子邮箱
-      value: sczhoubo@foxmail.com
+      value: sczhoubo@pku.edu.cn
   
 # Build settings
 markdown: kramdown
 sass:
-    style: :compressed
+    style: compressed
 plugins:
   - jekyll-feed
 
